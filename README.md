@@ -41,11 +41,8 @@ cd nome-do-repositorio
 Execute os exemplos em um ambiente JavaScript (navegador ou Node.js):
 
 
-📚 Recursos adicionais
-Documentação oficial do filter
 
-Documentação oficial do reduce
 
-✍️ Autor
+
 Desenvolvido por [Mateus Mendes].
 Contribuições e sugestões são bem-vindas!
