@@ -1,4 +1,4 @@
-#Métodos filter e reduce no JavaScript
+# Métodos filter e reduce no JavaScript
 Este repositório tem como objetivo demonstrar, de forma clara e prática, o uso dos métodos filter() e reduce() em JavaScript. Esses métodos fazem parte da API de arrays da linguagem e são amplamente utilizados em manipulação e transformação de dados.
 
 📌 Objetivo
